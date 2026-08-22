@@ -1,6 +1,5 @@
 # Hi there, I'm Kiran 👋
-
-An aspiring Full-Stack Web Developer passionate about building responsive web applications and learning new technologies.
+An aspiring Full-Stack Web Developer who loves turning ideas into responsive, real-world web applications — currently building projects and sharpening skills to land my first developer role.
 
 ---
 
@@ -12,9 +11,15 @@ An aspiring Full-Stack Web Developer passionate about building responsive web ap
 
 ---
 
+### 🌱 Currently Learning
+* React.js
+* Node.js / Express.js
+
+---
+
 ### 📂 Featured Projects
-* **[Crop Recommendation System](https://github.com/kirankumari860/crop-recommendation-system)** - A Python-based ML project to recommend optimal crops.
-* **[JS Web Projects](https://github.com/kirankumari860/js-web-projects)** - Collection of interactive frontend JavaScript web applications.
+* **[Crop Recommendation System](https://github.com/kirankumari860/crop-recommendation-system)** — A Python & ML based system that recommends optimal crops based on soil and climate conditions.
+* **[JS Web Projects](https://github.com/kirankumari860/js-web-projects)** — A showcase of interactive frontend web applications built using HTML5, CSS3, and JavaScript.
 
 ---
 
