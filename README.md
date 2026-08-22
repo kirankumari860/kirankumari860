@@ -5,15 +5,21 @@ An aspiring Full-Stack Web Developer passionate about building responsive web ap
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend & Languages:** C, Java, Python
-- **Database:** PostgreSQL, SQL
-- **Tools & Platforms:** Git, GitHub, VS Code
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Backend & Languages:** C, Java, Python
+* **Database:** PostgreSQL, SQL
+* **Tools & Platforms:** Git, GitHub, VS Code
+
+---
+
+### 📂 Featured Projects
+* **[Crop Recommendation System](https://github.com/kirankumari860/crop-recommendation-system)** - A Python-based ML project to recommend optimal crops.
+* **[JS Web Projects](https://github.com/kirankumari860/js-web-projects)** - Collection of interactive frontend JavaScript web applications.
 
 ---
 
 ### 🌐 Connect with Me
-- **Email:** kk8631834@gmail.com
+* **Email:** kk8631834@gmail.com
 
 ---
 
